@@ -1,6 +1,6 @@
 # GlinkaVadim
 ## Education  
-- **Candidate of Geographical Sciences** (Ph.D. equivalent in Geography)  
+- **Candidate of Geographical Sciences** (Ph.D. equivalent in Geography)  https://vak.gisnauka.ru/adverts-list/advert-card/149418
   *Southern Federal University*  
 
 ## Work Experience  
