@@ -61,12 +61,12 @@ I am actively seeking a **Junior ML Developer** role where I can apply my analyt
 
 ### 🚀 Projects
 
-#### **Face Verification with Deep Learning**
+#### **[Face Verification with Deep Learning](https://github.com/GlinkaVadim/Face_Verification_VGG16_ond_ResNet50_analys/blob/Glinka_V_V/Face_Verification_VGG16_ond_ResNet50_analys.ipynb)**
 *Comparison of VGG16 and ResNet50 architectures for facial verification tasks.*
 - **Tech:** `Python`, `Keras/TensorFlow`, `OpenCV`, `PIL`, `Scikit-learn`, `NumPy`, `Pandas`
 - **ML:** `CNN`, `Transfer Learning`, `Logistic Regression`, `SVM`, `Random Forest`
 
-#### **Local RAG System for Water Monitoring Documentation**
+#### **[Local RAG System for Water Monitoring Documentation](https://github.com/GlinkaVadim/Water-Monitoring-RAG-Assistant)**
 *Developed a Retrieval-Augmented Generation system for Q&A with water monitoring documentation.*
 - **Tech:** `RAG`, `PyTorch`, `LLM (Saiga)`, `CUDA/GPU`, `Phoenix`, `OpenTelemetry`
 
