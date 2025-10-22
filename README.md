@@ -1,5 +1,20 @@
+### 🚀 Projects
+
+#### **[Face Verification with Deep Learning](https://github.com/GlinkaVadim/Face_Verification_VGG16_ond_ResNet50_analys/blob/Glinka_V_V/Face_Verification_VGG16_ond_ResNet50_analys.ipynb)**
+*Comparison of VGG16 and ResNet50 architectures for facial verification tasks.*
+- **Tech:** `Python`, `Keras/TensorFlow`, `OpenCV`, `PIL`, `Scikit-learn`, `NumPy`, `Pandas`
+- **ML:** `CNN`, `Transfer Learning`, `Logistic Regression`, `SVM`, `Random Forest`
+
+#### **[Local RAG System for Water Monitoring Documentation](https://github.com/GlinkaVadim/Water-Monitoring-RAG-Assistant)**
+*Developed a Retrieval-Augmented Generation system for Q&A with water monitoring documentation.*
+- **Tech:** `RAG`, `PyTorch`, `LLM (Saiga)`, `CUDA/GPU`, `Phoenix`, `OpenTelemetry`
+
+*(Add more project links from your GitHub here as you complete them)*
+
+---
+
 # Vadim Glinka 
-**Junior ML Developer | Geospatial Data Scientist**  
+**Junior ML Developer | Data Scientist**  
 *Bridging Geoscience and Artificial Intelligence*
 
 📍 Rostov-on-Don, Russia  
@@ -57,21 +72,6 @@ I am actively seeking a **Junior ML Developer** role where I can apply my analyt
 | **Postgraduate Studies** (Geography) | **[Southern Federal University](https://drive.google.com/file/d/1EJqyHiYKXfCY2WZPWGsfKudLkloqVGZo/view)** | 2021 |
 | **M.Sc. Ecology & Environmental Management** | **[Southern Federal University](https://drive.google.com/file/d/1YkmGONunR2OJiUehrEjx59ufq66mn0rv/view)** | 2019 |
 | **B.Sc. Hydrometeorology & Oceanology** | **Southern Federal University** | 2017 |
----
-
-### 🚀 Projects
-
-#### **[Face Verification with Deep Learning](https://github.com/GlinkaVadim/Face_Verification_VGG16_ond_ResNet50_analys/blob/Glinka_V_V/Face_Verification_VGG16_ond_ResNet50_analys.ipynb)**
-*Comparison of VGG16 and ResNet50 architectures for facial verification tasks.*
-- **Tech:** `Python`, `Keras/TensorFlow`, `OpenCV`, `PIL`, `Scikit-learn`, `NumPy`, `Pandas`
-- **ML:** `CNN`, `Transfer Learning`, `Logistic Regression`, `SVM`, `Random Forest`
-
-#### **[Local RAG System for Water Monitoring Documentation](https://github.com/GlinkaVadim/Water-Monitoring-RAG-Assistant)**
-*Developed a Retrieval-Augmented Generation system for Q&A with water monitoring documentation.*
-- **Tech:** `RAG`, `PyTorch`, `LLM (Saiga)`, `CUDA/GPU`, `Phoenix`, `OpenTelemetry`
-
-*(Add more project links from your GitHub here as you complete them)*
-
 ---
 
 ### 📜 Publications & Scientific Work
