@@ -1,7 +1,7 @@
 ### 🚀 Projects
 
 #### **[Sentiment-analysis-of-citizens-communications-using-the-ruBert-base-language-model](https://github.com/GlinkaVadim/-Sentiment-analysis-of-citizens-communications-using-the-ruBert-base-language-model)**
-Анализ тональности обращений граждан в органы местного управления
+*Sentiment-analysis-of-citizens-communications-using-the-ruBert-base-language-model*
 - **Tech:** `PyTorch`, `Transformers`, `Pandas`, `NumPy`, `Matplotlib`, `scikit-learn`, `Kaggle`, `Jupyter Notebook` 
 
 #### **[Face Verification with Deep Learning](https://github.com/GlinkaVadim/Face_Verification_VGG16_ond_ResNet50_analys/blob/Glinka_V_V/Face_Verification_VGG16_ond_ResNet50_analys.ipynb)**
