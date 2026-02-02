@@ -1,4 +1,8 @@
 ### 🚀 Projects
+#### **[AI_chat_flutter_app]([https://github.com/GlinkaVadim/-Sentiment-analysis-of-citizens-communications-using-the-ruBert-base-language-model](https://github.com/GlinkaVadim/AI_chat_flutter_app)**
+*AIChat is a cross-platform AI chat app developed using Flutter. The app supports both OpenRouter.ai and VseGPT.ru, providing flexible interaction options with various language models.*
+- **Tech:** `Flutter', `Dart`, `REST API`, `SQLite`
+
 
 #### **[Sentiment-analysis-of-citizens-communications-using-the-ruBert-base-language-model](https://github.com/GlinkaVadim/-Sentiment-analysis-of-citizens-communications-using-the-ruBert-base-language-model)**
 *Sentiment-analysis-of-citizens-communications-using-the-ruBert-base-language-model*
