@@ -1,4 +1,8 @@
 ### 🚀 Projects
+
+#### **[Face-Verification-Siamese-Network](https://github.com/GlinkaVadim/Face-Verification-Siamese-Network)**
+*Проект по верификации лиц на основе Siamese Network с backbone EfficientNetB0, обученной end-to-end с использованием комбинированной функции потерь (BCE + Contrastive Loss)*
+
 #### **[AI_chat_flutter_app](https://github.com/GlinkaVadim/AI_chat_flutter_app)**
 *AIChat is a cross-platform AI chat app developed using Flutter. The app supports both OpenRouter.ai and VseGPT.ru, providing flexible interaction options with various language models.*
 - **Tech:** `Flutter', `Dart`, `REST API`, `SQLite`
