@@ -1,5 +1,8 @@
 ### 🚀 Projects
 
+#### **[wastespotter](https://github.com/GlinkaVadim/wastespotter)**
+*Система детекции свалочных очагов на аэрофотоснимках с БПЛА на основе YOLO12s*
+
 #### **[Face-Verification-Siamese-Network](https://github.com/GlinkaVadim/Face-Verification-Siamese-Network)**
 *Проект по верификации лиц на основе Siamese Network с backbone EfficientNetB0, обученной end-to-end с использованием комбинированной функции потерь (BCE + Contrastive Loss)*
 
